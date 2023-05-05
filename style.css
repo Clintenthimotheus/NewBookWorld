@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    background-color: #1c1444;
+}
+a{
+    text-decoration: none;
+}
+.head{
+    width: 99%;
+    height: 150px;
+    background-color: #1c1444;
+    border-radius: 17px;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    padding-top:20px ;
+    padding-left: 20px;
+    position: sticky;
+    top: 30px;
+   
+
+}
+   
+
+.logoimage{
+    width: 122px;
+    border-radius: 47px;
+    height: 99px;
+    cursor: pointer;
+   
+}
+.book{
+    font-family: 'Roboto Condensed', sans-serif!important;
+    color: #fdf5fde1;
+    text-shadow: 5px 5px 5px #8374d1;
+    text-decoration: underline rgb(243, 238, 238);
+    padding-top: 33px;
+    font-size: 28px;
+    padding-right: 94px;
+    
+}
+.head-text{
+    
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #ffff;
+    
+}
+.head-text:hover{
+    font-size:16px;
+}
+.bg{
+    width: 1830px;
+    height: 669px;
+    padding-top: 31px;
+}
+.hr{
+
+    margin-top: 35px;
+    width: 821px;
+    height: 4px;
+}
+.purchase{
+    height: 500px;
+    background-color: aliceblue;
+    width: 400px;
+    border-radius: 100px;
+    border: 10px solid slateblue;
+    
+}
+.center-icon{
+    width: 100%;
+    padding-top: 117px;
+    height: 156px;
+    
+}
+#icon{
+    font-size: 158px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding-bottom: 100px;
+}
+
+
+
+
+
+.purchase-head{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 10px;
+
+}
+.imgbook{
+    padding-left: 92px;
+    padding-top: 30px;
+}
+.imgbook:hover{
+padding-left: 100px;
+width:210px;
+box-shadow: #1c1444 10px 10px 10px;
+
+
+}
+.font{
+    font-size: 31px;
+    padding-left: 91px;
+    font-family: Lato,sans-serif;
+}
+.font-1{
+    font-size: 31px;
+    padding-left: 132px;
+    font-family: Lato,sans-serif;
+}
+.title{
+    font-size: 20px;
+    font-family: Lato,sans-serif;
+    padding-left: 130px;
+    padding-top: 17px;
+}
+.cash{
+    padding-left: 10px;
+    padding-top:10px;
+    font-family: Lato,sans-serif;
+}
+.num{
+    padding-left: 164px;
+    padding-top: 6px;
+    font-size: 24px;
+    color: red;
+}
+.off{
+    padding-left: 166px;
+    padding-top: 10px;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+.read{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    text-shadow: 10px 10px 10px rgb(28, 122, 230);
+}
+p{
+    font-size: 60px;
+    color: wheat;
+    font-family: Lato,sans-serif;
+    padding-left: 100px;
+}
+    
